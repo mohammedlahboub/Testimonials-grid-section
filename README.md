@@ -5,9 +5,9 @@
 ### Frontend Mentor - [@mohammedlahboub](https://www.frontendmentor.io/profile/mohammedlahboub)
 ### Twitter - [@september2oo2](https://www.twitter.com/september2oo2)
 # Desktop view :
-![](/screenshots/Screenshot-d.png)
+![](/screenshots/Screenshot-desktop.png)
 # Tablet view :
-![](/screenshots/Screenshot-t.png)
+![](/screenshots/Screenshot-tablet.png)
 # Mobile View :
-![](/screenshots/Screenshot-m.png)
+![](/screenshots/Screenshot-mobile.png)
 

@@ -26,7 +26,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: hsl(210, 46%, 95%);
+    background-color: hsl(210, 100%, 95%);
 }
 .wrapper{
     max-width: 1250px;
@@ -44,23 +44,36 @@ body{
     display: flex;
     flex-direction: column;
     gap: 1.5em;
-    box-shadow: 1rem 1rem 1rem hsl(0, 0%, 81%);
 }
 .testimonial--purple{
+    box-shadow: 1rem 1rem 1rem hsl(263, 55%, 72%) ;
+
     background-color:hsl(263, 55%, 52%) ;
     grid-column: span 2;
 }
 .testimonial--gray{
+    box-shadow: 1rem 1rem 1rem hsl(217, 19%, 60%) ;
+
     background-color:hsl(217, 19%, 35%) ;
 }
 .testimonial--black{
+    box-shadow: 1rem 1rem 1rem hsl(219, 29%, 64%);
+
     background-color:hsl(219, 29%, 14%) ;
     grid-column: span 2;
 }
+.testimonials:hover{
+    opacity: 90%;
+    
+}
 .testimonial--White{
+    box-shadow: 1rem 1rem 1rem hsla(0, 0%, 95%, 0.623);
+
     background-color: hsl(0, 0%, 100%);
 }
 .testimonial--WhiteBig{
+    box-shadow: 1rem 1rem 1rem hsla(0, 0%, 95%, 0.623);
+
     background-color: hsl(0, 0%, 100%);
     grid-column: 4;
     grid-row-start:1  ;
@@ -79,7 +92,9 @@ body{
     align-items: center;
     gap: 1em;
 }
-
+.img--border{
+    border: 3px solid hsl(263, 55%, 72%);
+}
 .profile--img{
     border-radius: 50%;
 
