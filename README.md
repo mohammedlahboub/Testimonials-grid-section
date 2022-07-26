@@ -1,4 +1,3 @@
-# Overview
 # Live Site : [Here](https://mohammedlahboub.github.io/Testimonials-grid-section)
 # Author
 ### Github - [mohammedlahboub](https://github.com/mohammedlahboub)
