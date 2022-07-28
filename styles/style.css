@@ -20,6 +20,9 @@ time, mark, audio, video {
     box-sizing: border-box;
 
 }
+h1{
+	display:none;
+}
 body{
     height: 100vh;
     display: flex;
