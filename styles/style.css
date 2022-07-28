@@ -62,10 +62,7 @@ body{
     background-color:hsl(219, 29%, 14%) ;
     grid-column: span 2;
 }
-.testimonials:hover{
-    opacity: 90%;
-    
-}
+
 .testimonial--White{
     box-shadow: 1rem 1rem 1rem hsla(0, 0%, 95%, 0.623);
 
